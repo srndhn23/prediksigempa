@@ -1,0 +1,8 @@
+fastapi
+numpy
+pandas
+scikit-learn
+statsmodels
+prophet
+mysql
+mysql-connector
