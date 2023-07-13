@@ -6,3 +6,4 @@ statsmodels
 prophet
 mysql
 mysql-connector
+uvicorn
